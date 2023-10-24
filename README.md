@@ -1,2 +1,2 @@
-# Python_PIA
-Python_PIA
+# Programación en Inteligencia Artificial 
+* Utilizando el lenguaje de programación ``Python``
