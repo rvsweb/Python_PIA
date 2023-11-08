@@ -8,4 +8,6 @@ print(nueva_cadena , " "  , "Hola")
 print(cadena.upper())
 
 
-
+cadena = "nueva cadena"
+cadena.capitalize()
+print(cadena)
