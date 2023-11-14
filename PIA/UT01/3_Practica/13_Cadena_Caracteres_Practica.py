@@ -9,5 +9,5 @@ print(cadena.upper())
 
 
 cadena = "nueva cadena"
-cadena.capitalize()
-print(cadena)
+cadena_capitalizada = cadena.capitalize()
+print(cadena_capitalizada)
