@@ -19,7 +19,7 @@ for num in lista:
 print("-------------")
 print("2- Dimension")
 
-for fila in lista:
-    for columna in fila:
-        print(columna,end="")
-    print()
+# for fila in lista:
+#     for columna in fila:
+#         print(columna,end="")
+#     print()
