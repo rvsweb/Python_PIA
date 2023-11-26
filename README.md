@@ -3,4 +3,3 @@
 
 * Utilizando el lenguaje de programación ``Python``
 
-Nuevo
