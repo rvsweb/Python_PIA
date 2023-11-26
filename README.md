@@ -1,2 +1,4 @@
-# Programación en Inteligencia Artificial 
+
+# Programación en Inteligencia Artificial
+
 * Utilizando el lenguaje de programación ``Python``
