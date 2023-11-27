@@ -3,7 +3,7 @@
 
 * Utilizando el lenguaje de programación ``Python``
 
-![Logo Python](https://designlooter.com/images/python-svg-1.png "Python")
+![Logo Python|100](https://designlooter.com/images/python-svg-1.png "Python")
 
 * Utilizando la biblioteca
 
