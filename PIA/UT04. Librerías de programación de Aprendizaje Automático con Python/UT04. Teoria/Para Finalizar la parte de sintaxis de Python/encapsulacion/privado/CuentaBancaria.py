@@ -1,4 +1,4 @@
-class CuentaBancaria:
+class CuentaBancaria():
 
     # Atributo privado
     _numero_cuenta = 123456789

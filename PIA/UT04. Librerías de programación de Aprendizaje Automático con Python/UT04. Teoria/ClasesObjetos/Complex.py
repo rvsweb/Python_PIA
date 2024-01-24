@@ -1,5 +1,5 @@
 
-class Complex:
+class Complex():
 
     def __init__(self, realpart, imagpart) -> None:
         self.r = realpart

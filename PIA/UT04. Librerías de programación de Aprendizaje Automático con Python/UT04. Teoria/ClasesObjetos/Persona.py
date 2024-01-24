@@ -1,7 +1,7 @@
 
-class Persona:
+class Persona():
 
-    def __init__(self, nombre, edad) -> None:
+    def __init__(self, nombre str, edad) -> None:
         self.nombre = nombre
         self.edad = edad
 
